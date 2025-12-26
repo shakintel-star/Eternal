@@ -48,4 +48,4 @@ if __name__ == "__main__":
     print("[@Eternal] Initializing AGI-Omni Monolith...")
     server = HTTPServer(('0.0.0.0', 9999), AGIAppServer)
     print("[@EAO] AGI Intelligence Layer Live. Port 9999 Secured.")
-    server.serve_forever()
+    server.serve_forever() 
