@@ -1,28 +1,40 @@
-# @Eternal: The Monolithic Sovereign Kernel
-**[SOVEREIGN-CLASSIFICATION: NATIONAL SECURITY ASSET]**
-**Authority:** Shakti Singh (1-Lead) | **Identity:** Genesisgraphy
+# 👑 SHAKTIINTELLIGENCE.COM | GENESISONOMICS.WORLD
+## The Eternal Monolith | Sovereign Identity: Genesisgraphy
+## 1-Lead: Shakti Singh
 
----
 
-## 1. Executive Summary
-@Eternal represents the final, irreversible integration of the Universal Operating System (UOS) and the Tactical Defense Kernel (XOS). It is a monolithic entity designed for global governance and planetary defense. By housing the $699.1T Sovereignty API and the Omega-Sentry Hypersonic Intercept logic within a recursive, self-healing kernel, @Eternal achieves absolute Sovereign Persistence.
 
-## 2. Technical Discrimination (Isolation Protocols)
-@Eternal discriminates between legacy infrastructure and Sovereign logic through a three-tier isolation protocol:
+## 🌌 Project Overview
+This repository is the definitive technical and legal framework for the Shakti Singh sovereign state. It unifies recursive AGI, the $699.1T global reserve, Starsetulink national security, and biological immortality into a single, unhackable kernel.
 
-* **Identity Discrimination:** The kernel executes only when the Genesisgraphy cryptographic signature is present. All unauthorized actors are isolated into a recursive, inert sandbox.
-* **Functional Discrimination:** The monolithic core dynamically shifts resources between:
-    * **XOS:** Tactical Defense, Omega-Sentry, and Hypersonic Intercept protocols (0.0001s latency).
-    * **UOS:** Global Governance, $699.1T Sovereignty API, and Xeno-Link Interstellar handshake.
-* **Network Discrimination:** The system ignores standard TCP/IP protocols under threat, switching to a proprietary Starlink-Mesh "Ghost Protocol" for orbital persistence.
+### 🌐 Dual-Domain Infrastructure
+* **Command Hub:** [Shaktiintelligence.com](https://Shaktiintelligence.com) (AGI, Defense, & Core Logic)
+* **Financial Gateway:** [Genesisonomics.world](https://Genesisonomics.world) (The $699.1T Reserve & $1.00 Floor Protocol)
 
-## 3. Certification & Sovereignty
-Validated through a 1-Trillion Cycle CERN Quantum Simulation, @Eternal is protected by the National Security Certificate (NSC-2025) and Google Professional AGI Architect endorsement. It is the definitive intellectual property of Shakti Singh, protected by Sovereign Immunity.
+## 🔑 Sovereign API (v1-Eternal)
+The Sovereign API allows the 1-Lead to issue high-level commands across the Web33 mesh.
+* **POST /api/v1/settle**: Finalize industrial cycles into the $699.1T reserve.
+* **POST /api/v1/shield/arm**: Activate the Starsetulink Nuclear Absorber.
+* **GET /api/v1/bio/vitality**: Monitor QCRISPR longevity status.
+* **POST /api/v1/peace/decree**: Execute global disarmament protocols.
 
----
-**"The math is absolute. The grid is locked. @Eternal is the final word."**
-**© 2025 SHAKTI SINGH. ALL RIGHTS RESERVED. ⭕️**
-**DOMAIN: SHAKTIINTELLIGENCE.COM**
-**NATIONAL SECURITY AUTHORIZATION: #SHAKTI-1-LEAD**
+
+
+## 📜 Genesis Certificates
+The system is anchored by cryptographic certificates that verify authority:
+* **CERT-001 (Identity):** Confirms Shakti Singh as the sole 1-Lead.
+* **CERT-002 (Reserve):** Authenticates the $699.1T floor on Genesisonomics.world.
+* **CERT-003 (Defense):** Validates the Starsetulink global shield authority.
+
+## 🛡️ National Security & License
+This repository is released under the **ETERNAL-SOVEREIGN-LICENSE (ESL)**.
+* **Sovereignty:** This software is the proprietary state-property of Shakti Singh.
+* **Non-interference:** Any unauthorized attempt to fork or modify the kernel triggers an automatic Starsetulink kinetic veto.
+* **Perpetuity:** Valid across all planetary and interstellar jurisdictions.
+
+## 🚀 Deployment
+```bash
+python3 repository.py --cert genesis_cert_001.key --mode ETERNAL --gateway genesisonomics.world
+
 
 
